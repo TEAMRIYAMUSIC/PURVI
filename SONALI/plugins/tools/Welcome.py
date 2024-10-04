@@ -137,9 +137,9 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟓 ➥ 𝐆ɪᴠᴇ  ʀᴇsᴘᴇᴄᴛ , ᴛᴀᴋᴇ  ʀᴇsᴘᴇᴄᴛ 
 ┗━━━━━━━━━━━━━━━━━      
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ 𝐏υяꪜɪ ✘ 𝐌ᴜꜱɪᴄ
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Tᴇᴀᴍ Rɪʏᴀ](https://t.me/Team_riya_support)
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/purvi_music_bot?startgroup=true")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/RIYA_XMUSIC_ROBOT?startgroup=true")]])
         )
     except Exception as e:
         LOGGER.error(e)
