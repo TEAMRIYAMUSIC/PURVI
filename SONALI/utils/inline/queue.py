@@ -113,7 +113,7 @@ def queuemarkup(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/Ur_rishu_143",
+                url="https://t.me/Ksdofficial84",
             ),
         ],
     ]
