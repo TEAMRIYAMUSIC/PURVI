@@ -1,4 +1,4 @@
-# 𝗦𝗢𝗡𝗔𝗟𝗜-𝗠𝗨𝗦𝗜𝗖 
+ek # 𝗦𝗢𝗡𝗔𝗟𝗜-𝗠𝗨𝗦𝗜𝗖 
 ➥ 𝖧ᴇʀᴏᴋᴜ 𝖭ᴇᴡ 𝖤ʀʀᴏʀ 𝖥ɪxᴇᴅ 𝖱ᴇᴘᴏ 𝖣ᴇᴘʟᴏʏ 𝖭ᴏᴡ ✔️ 
  ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
   ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ 👨🏻‍💻
@@ -33,7 +33,7 @@ GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plu
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/istkharalam62/PURVI"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Teamriyamusic/PURVI"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
